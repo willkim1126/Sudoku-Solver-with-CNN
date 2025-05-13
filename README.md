@@ -1,4 +1,4 @@
-# Disclaimer: This page only discuss AWS implementation of my CNN model. For initial model and its report, please visit Initial Model folder.
+# Disclaimer: The README (Github Webpage) page only discuss AWS implementation of my CNN model. For initial model and its report, please visit Initial Model folder.
 
 **Author:** Junghwan Kim  
 **Contact:** junghwk11@gmail.com
